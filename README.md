@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a software engineer currently attending General Assembly's Software Engineering Immersive Remote program.
+I am a software engineer currently attending General Assembly's Software Engineering Immersive Remote program. Prior to entering the field of software engineering, I spent +10 years as a leader at Target motivating teams, managing execution, and driving for results through strategy, innovation, and connection.
 
 # Skills
 - HTML
