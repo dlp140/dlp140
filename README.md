@@ -24,8 +24,8 @@ I am a software engineer currently attending General Assembly's Software Enginee
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp; -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp; -->
 
 
 # Coming Soon...
