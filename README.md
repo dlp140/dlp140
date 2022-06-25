@@ -28,10 +28,15 @@ I am a software engineer currently attending General Assembly's Software Enginee
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" title="Heroku" alt="Heroku" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp; -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp; -->
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" title="FileZilla" alt="FileZilla" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="50" height="50"/>&nbsp;
 
 # Coming Soon...
 
