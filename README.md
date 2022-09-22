@@ -68,7 +68,7 @@ I am a software engineer currently attending General Assembly's Software Enginee
 
 
 
-## Recent Projects...
+<!-- ## Recent Projects... -->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlp140)](https://github.com/anuraghazra/github-readme-stats) -->
