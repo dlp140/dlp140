@@ -23,6 +23,7 @@ I am a software engineer currently attending General Assembly's Software Enginee
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
